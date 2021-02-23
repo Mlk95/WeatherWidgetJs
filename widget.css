@@ -1,0 +1,30 @@
+#widgetContainer {
+   	display:grid;
+	grid-template-columns: 25px 200px 350px 25px;
+	grid-template-rows: auto;
+	border-style: solid;
+	width: 600px;
+	background-color: #72a4b5;
+	color: white;
+}
+
+#caption {
+	grid-column-start: 2;
+	grid-column-end: 5;
+	grid-row-start: 1;
+	grid-row-end: 2;
+}
+
+#iconContainer {
+	grid-column-start: 2;
+	grid-column-end: 3;
+	grid-row-start: 2;
+	grid-row-end: 3;
+}
+
+#infoContainer {
+	grid-column-start: 3;
+	grid-column-end: 4;
+	grid-row-start: 2;
+	grid-row-end: 3;
+}
