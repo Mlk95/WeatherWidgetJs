@@ -5,6 +5,8 @@ Simple WeatherWidget with the help of the W3C Geoloctaion API (https://developer
 Created in JavaScript, HTML, CSS. 
 Hosted over Firebase (https://firebase.google.com/docs/hosting).
 
+Demo: https://simpleweatherwidget-d038d.firebaseapp.com/
+
 # Issues
 
 Sometimes the GET-request for the Free Code Camp Weather API seems to fail. In this case just wait a few seconds and refresh the page. Might have sth. to do with too many requests in a short amount of time. 
