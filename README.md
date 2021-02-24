@@ -7,23 +7,24 @@ Hosted over Firebase (https://firebase.google.com/docs/hosting).
 
 # Issues
 
+Sometimes the GET-request for the Free Code Camp Weather API seems to fail. In this case just wait a few seconds and refresh the page. 
 
 
 # Questions
 
-How could you request data inside the browser, from another domain?
+## How could you request data inside the browser, from another domain?
 -
 
-What does CORS stand for?
+## What does CORS stand for?
 - CORS = Cross-origin-resource sharing.
 - 
 
-Please name 5 different HTTP methods and explain what they are used for?
+## Please name 5 different HTTP methods and explain what they are used for?
 -
 
-What is the difference between 'DOMContentLoaded' and 'Load' events?
+## What is the difference between 'DOMContentLoaded' and 'Load' events?
 - DOMContentLoaded: Event fires when the current page/document has been completly loaded and parsed (DOM-Tree fully constructed).
 - Load: Event fires when all resources including images, stylesheets, frames and scripts have been loaded.
 
-What is the DOM?
+## What is the DOM?
 - The Document Object Model is a interface for the structuring of html and xml documents. Every document in every browser tab you have open is represented by the DOM in a DOM-   Tree. Within the DOM-Tree every element is represented by a node. The DOM allows an easy manipulation through JavaScript which is essential for creating dynamic Websites (for example appending nodes with child nodes which i also did in my task). 
